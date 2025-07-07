@@ -111,6 +111,6 @@ Ganti `SHODAN_API_KEY` dengan API key Shodan milikmu.
 ## 👨‍💻 Dibuat Oleh
 
 **Rafza18**
-🕵️‍♂️ Jangan berpikir aneh melihat logonya, ini mahakarya by Rafza18. 😉
+🕵️‍♂️ mahakarya by Rafza18. 😉
 
 ---
